@@ -12,4 +12,4 @@ Il reste plus qu'a se connecter !
 
 Voici une petite vidéo explicative:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MChau9UFr2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/MChau9UFr2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
