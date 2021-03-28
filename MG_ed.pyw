@@ -55,7 +55,7 @@ def run():
 
 
 window = Tk()
-window.title("Moyenne Général école directe")
+window.title("Moyenne Générale école directe")
 window.geometry("720x480")
 window.iconbitmap("Package/logo.ico")
 window.config(background='#1076EA')
@@ -71,11 +71,11 @@ def run_and_calculate():
     moyenne_title.pack()
 
 
-label_title = Label(window, text="Calculer Votre Moyenne général d'Ecole Directe !", font=("Calibri", 25), bg="#1076EA",
+label_title = Label(window, text="Calculez Votre Moyenne général d'Ecole Directe !", font=("Calibri", 25), bg="#1076EA",
                     fg="white")
 label_title.pack()
 
-connection_title = Label(frame, text="connecter vous ici !", font=("Calibri", 25), bg="#1076EA",
+connection_title = Label(frame, text="connectez-vous ici !", font=("Calibri", 25), bg="#1076EA",
                          fg="white")
 connection_title.pack(padx=120)
 
