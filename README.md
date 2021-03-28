@@ -1,4 +1,4 @@
-# MGED-Moyenne_GENERALE_ECOLE_DIRECTE
+# MGED-Moyenne Générale Ecole Directe
 
 ![mini](https://user-images.githubusercontent.com/60709615/112749565-6755c100-8fc3-11eb-9743-865794acb985.jpg)
 
