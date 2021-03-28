@@ -4,17 +4,17 @@
 
 Ce petit programme est une interface graphique qui Calcule automatiquement votre moyenne généale à partire des moyennes de toutes les matières.
 
-# Présentation et téléchargement
+# Présentation et téléchargement⬇️
 
 Pour le faire foncionner, vous aurez besoin de:
-* [Python](https://www.python.org/) (version 3)
+* [Python](https://www.python.org/) 🐍(version 3)
 * du module [Selenium](https://selenium-python.readthedocs.io/installation.html)
 
-Attention ! n'oubliez pas de changer le numéro de l'élève !
+⚠️Attention ! n'oubliez pas de changer le numéro de l'élève !
 
-Il reste plus qu'a se connecter !
+✅Il reste plus qu'a se connecter !
 
-# Vidéo
+# Vidéo🎬
 
 Voici une petite vidéo explicative:
 
