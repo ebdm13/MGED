@@ -8,6 +8,8 @@ Pour le faire foncionner, vous aurez besoin de:
 * [Python](https://www.python.org/) (version 3)
 * du module [Selenium](https://selenium-python.readthedocs.io/installation.html)
 
+Attention ! n'oubliez pas de changer le numéro de l'élève !
+
 Il reste plus qu'a se connecter !
 
 Voici une petite vidéo explicative:
