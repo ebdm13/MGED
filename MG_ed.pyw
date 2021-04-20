@@ -9,7 +9,9 @@ def run():
     coef = []
     username = username_entry.get()
     password = password_entry.get()
-    driver = webdriver.Chrome(executable_path="Package/chromedriver.exe")
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+    driver = webdriver.Chrome(executable_path="Package/chromedriver.exe", chrome_options=options)
     driver.get("https://www.ecoledirecte.com/Eleves/4124/Notes")
     user_bar = driver.find_element_by_id("username")
     passwd_bar = driver.find_element_by_id("password")
