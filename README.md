@@ -11,9 +11,9 @@ Pour le faire foncionner, vous aurez besoin de:
 * du module [Selenium](https://selenium-python.readthedocs.io/installation.html)
 
 ⚠️Attention ! 
-* n'oubliez pas de changer le numéro de l'élève !
-* Certaines modifications ont été effectués sur le projet. Il est donc normal que vous n'ayez pas exactement le même résultat que dans la vidéo.
-* Il est possible que votre version de Chrome ne soit pas la même que celle utilisée, il vous suffira donc de changer le driver.
+* ⚠️n'oubliez pas de changer le numéro de l'élève !
+* ⚠️Certaines modifications ont été effectués sur le projet. Il est donc normal que vous n'ayez pas exactement le même résultat que dans la vidéo.
+* ⚠️Il est possible que votre version de Chrome ne soit pas la même que celle utilisée, il vous suffira donc de changer le driver.
 
 ✅Il reste plus qu'a se connecter !
 
